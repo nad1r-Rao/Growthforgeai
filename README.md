@@ -1,3 +1,5 @@
+[![Build Status](https://yummy-pumas-flow.loca.lt/job/My-First-Project/badge/icon)](https://yummy-pumas-flow.loca.lt/job/My-First-Project/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
